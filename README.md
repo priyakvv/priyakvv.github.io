@@ -1,6 +1,5 @@
 ---
-title: "Education"
-permalink: "/about/"
+
 layout: page
 ---
 
