@@ -1,11 +1,11 @@
 ---
-title: Home
+title: Hello 😄
 layout: page
 ---
 
 
 
-I will be joining as a Ph.D. student at the [University of Copenhagen](https://geotop.math.ku.dk), on November 1, 2023. <br>
+I will be employed as a Ph.D. student at the [University of Copenhagen](https://geotop.math.ku.dk), from November 1, 2023. <br>
 
 
 My broad research interest lies in Analysis and Geometry. Currently, I am interested in the modern theory of minimal surfaces, i.e. the geometry and analysis of the relevant nonlinear partial differential equations from a geometric viewpoint. I am also interested in Spectral theory,
