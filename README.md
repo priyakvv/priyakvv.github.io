@@ -9,7 +9,7 @@ layout: page
 
 Master's Thesis: "Spectrum of Laplacian on Hyperbolic Surfaces"
 
-##### BSc: St.Joseph's College,Devagiri (2018-2019) 
+#### BSc: St.Joseph's College, Devagiri (2018-2019) 
 
 
 
