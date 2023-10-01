@@ -1,8 +1,7 @@
 ---
-title: "Project"
-permalink: "/project/"
+
 layout: page
 ---
-#### "Phase Portrait of Vector fields and it's Applications"
+#### Phase Portrait of Vector Fields and it's Applications
 
-#### Basics of PDE
+#### Basics of Partial Differential Equations
