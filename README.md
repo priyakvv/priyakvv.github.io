@@ -6,7 +6,7 @@ layout: page
 
 
 #### MSc: Indian Insitute of Technology, Madras (2021-2023) 
-Master's Thesis: "Spectrum of Laplacian on Hyperbolic Surfaces"
+- Master's Thesis: "Spectrum of Laplacian on Hyperbolic Surfaces"
 
 #### BSc: St.Joseph's College, Devagiri (2018-2019) 
 
