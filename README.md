@@ -4,8 +4,10 @@ permalink: "/about/"
 layout: page
 ---
 
-# Master's in Mathematics 
-Indian Insitute of Technology, Madras (2021-2023)
+
+###MSc: Indian Insitute of Technology, Madras (2021-2023)
+Master's Thesis : Spectrum of Laplacian on Hyperbolic Surfaces
+
 
 
 ## Features
