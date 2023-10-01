@@ -1,6 +1,6 @@
 ---
 title: "Project"
-permalink: "/about/"
+permalink: "/project/"
 layout: page
 ---
 Yes
