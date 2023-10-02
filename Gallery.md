@@ -4,5 +4,8 @@
 
 #### View from Savandurga Hill, Banglore
 
-![IMG20230715085321](https://github.com/priyakvv/priyakvv.github.io/assets/146614481/882f4a3a-d9c8-41c3-87e8-0b7ae586e39a)
+![IMG20230715085321](https://github.com/priyakvv/priyakvv.github.io/assets/146614481/bb94941e-eeff-48fa-b2d5-f7ca390cc0bb)
+
+#### National Centre for Biological Sciences (NCBS), Banglore
+![20230626_175443_0000](https://github.com/priyakvv/priyakvv.github.io/assets/146614481/ab925de2-c321-4961-bb43-7748f482cddf)
 
