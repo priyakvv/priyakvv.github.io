@@ -1,6 +1,6 @@
 #### Talks Given
-1.[Covering Spaces](https://www.youtube.com/watch?v=IvLFEUuIzGo)
-2.Spectrum of Laplacian on Hyperbolic Surfaces at IIT Madras on 07/06/2023
+1. [Covering Spaces](https://www.youtube.com/watch?v=IvLFEUuIzGo)
+2. Spectrum of Laplacian on Hyperbolic Surfaces at IIT Madras on 07/06/2023
 
 #### Talks I helped to Organize
 1.  I was one of the organizing members of the following talks conducted by [Curry leaf](https://sites.google.com/view/curryleaf/home?authuser=0).
