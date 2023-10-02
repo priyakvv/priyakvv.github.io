@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "Education"}
   - {file: "project.md", title: "Misc."}
 
-
+external:
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
