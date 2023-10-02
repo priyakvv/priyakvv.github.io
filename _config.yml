@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "Education"}
   - {file: "Talks.md", title: "Talks"}
   - {file: "Gallery.md", title: "Gallery"}
- - {file: "project.md", title: "Teaching"}
+  - {file: "project.md", title: "Teaching"}
 
 external:
 - {title: Mail, icon: envelope, url: "mailto:pkvv@math.ku.dk"}
