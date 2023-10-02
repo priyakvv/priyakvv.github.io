@@ -2,7 +2,8 @@
 
 layout: page
 ---
-
+#### Ph.D.: Københavns Universitet (2023-2026)
+ The research will be focused on the transfer of techniques and theorems from the corresponding vast supply of classical results for minimal surfaces and into the new soliton setting. 
 
 #### MSc: Indian Insitute of Technology, Madras (2021-2023) 
 - Master's Thesis: "Spectrum of Laplacian on Hyperbolic Surfaces"
