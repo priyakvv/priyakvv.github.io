@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
   - {file: "README.md", title: "Education"}
   - {file: "teaching.md", title: "Teaching"}
-  - {file: "Notes.md, title: Teaching"}
+  - {file: "Notes.md", title: Teaching"}
   - {file: "Talks.md", title: "Talks"}
   - {file: "Gallery.md", title: "Gallery"}
  
