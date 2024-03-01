@@ -4,7 +4,6 @@
 layout: page
 ---
 
-
 **Hello!** <br>
 
 I am currently a Ph.D. student at the [Københavns Universitet](https://geotop.math.ku.dk). <br>
