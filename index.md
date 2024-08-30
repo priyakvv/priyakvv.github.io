@@ -3,6 +3,7 @@
 layout: page
 ---
  **Hello!** <br>
+![IMG-20240810-WA0079 (1)](https://github.com/user-attachments/assets/767192be-7ccf-41be-a4c5-daf7b3a90e28 = 100x100))
 
 I am currently a Ph.D. student at the [Københavns Universitet](https://geotop.math.ku.dk), working under [Niels Martin Møller](https://web.math.ku.dk/~nmoller/). 
 
