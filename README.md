@@ -2,7 +2,7 @@
 
 layout: page
 ---
-#### Ph.D.: Københavns Universitet (2023-2026)
+#### Ph.D.: Københavns Universitet (2023-)
 
 #### MSc: Indian Insitute of Technology, Madras (2021-2023) 
 Master's Thesis: "Spectrum of Laplacian on Hyperbolic Surfaces" <br>
