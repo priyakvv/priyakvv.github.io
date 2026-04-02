@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "Education"}
   - {file: "teaching.md", title: "Tutoring"}
   - {file: "Talks.md", title: "Talks"}
-  - {file: "Gallery.md", title: "Gallery"}
+  
  
 
 external:
