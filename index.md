@@ -3,7 +3,7 @@
 layout: page
 ---
  **Hello!** <br>
-![](https://github.com/user-attachments/assets/c9b84f50-dec7-4a23-9791-264198341c6c)
+
 
 
 
